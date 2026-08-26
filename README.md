@@ -92,8 +92,4 @@ What I optimise for: maintainable workflows, explicit error handling, documentat
 
 ---
 
-## License
-
-MIT. Use, adapt, and extend freely.
-
 Stars on the repo are appreciated if something here is useful.
